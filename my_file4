@@ -7,5 +7,3 @@ When recording your own work, the contents of modified files in your working tre
        to this file from participating in the next commit. After building the state to be
        committed incrementally with these commands, git commit (without any pathname parameter)
        is used to record what has been staged so far. This is the most basic form of the command.
-
-Done
